@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://aissitech.github.io/mohammedaissi.github.io/sitemap.xml
+Sitemap: https://aissitech.github.io/portfolio/sitemap.xml
